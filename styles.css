@@ -3,5 +3,7 @@ body{
 }
 p{
   color: yellow ;
+  border-style: solid;
+  border-radius: 20px;
 
 }
